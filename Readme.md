@@ -1,0 +1,1 @@
+This is a test for me to learn how to commit and push a folder from VS code to github.  The program is a very basic python file from a online training.  More programs will be added to this file as i continue with my python training. new
